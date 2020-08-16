@@ -1,4 +1,4 @@
-package com.codekata.practice;
+package com.codekata.practice.kata02;
 
 import static org.junit.jupiter.api.Assertions.*;
 

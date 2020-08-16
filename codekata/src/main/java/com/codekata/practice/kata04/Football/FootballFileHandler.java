@@ -7,7 +7,7 @@ import com.codekata.practice.kata04.FileHandler;
 
 public class FootballFileHandler<T> implements FileHandler {
 
-	private static final String fFilename = "football.dat";
+	private static final String fFilename = "kata04/football.dat";
 	private static final String HEADER = "Team            P     W    L   D    F      A     Pts";
 
 	@Override

@@ -7,7 +7,7 @@ import com.codekata.practice.kata04.FileHandler;
 
 public class WeatherFileHandler<T> implements FileHandler<T> {
 
-	private static final String fFilename = "weather.dat";
+	private static final String fFilename = "kata04/weather.dat";
 	private static final String HEADER = "Dy MxT   MnT   AvT   HDDay  AvDP 1HrP TPcpn WxType PDir AvSp Dir MxS SkyC MxR MnR AvSLP";
 	private static final String TOTALS = "mo";
 
